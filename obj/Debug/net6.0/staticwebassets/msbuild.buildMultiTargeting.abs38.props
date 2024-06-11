@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\abs38.props" />
+</Project>
